@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 [![Linkedin Badge](https://img.shields.io/badge/RaghuReddy-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghu-reddy-394a98140/)]
+📫 [![Linkedin Badge](https://img.shields.io/badge/RaghuReddy-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/raghureddycloud/)]
 
 > "DevOps is not a goal, but a never-ending process of continual improvement"
 

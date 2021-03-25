@@ -6,11 +6,10 @@
 
 ### Overview
 
-- 🔭 I’m currently working on Azure and AWS
-- 🌱 I’m currently learning kubernetes
-- 👯 I’m looking to collaborate on Opensource 
-- 💬 Ask me about DevOps methodology
--  
+- 🔭 I’m currently working on Azure and AWS 
+- 🌱 I’m currently mastering kubernetes
+- 💬 Ask me about DevOps Methodology and Practices 
+
 ### Certifications 
 - Microsoft Certified DevOps Engineer Expert.
 - Microsoft Certified: Azure Administrator Associate.

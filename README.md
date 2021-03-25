@@ -21,7 +21,7 @@
 - GitHub Actions
 - Kubernetes for Production 
 
-### :books: Book To Read
+### 📘 Book To Read
 - [The Phoenix Project](https://g.co/kgs/TRC14r)
 - [Site Reliability Engineering](https://g.co/kgs/BrZWhj)
 

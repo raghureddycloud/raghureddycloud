@@ -12,6 +12,7 @@
 
 ### Certifications 
 - Microsoft Certified DevOps Engineer Expert.
+- Microsoft Certified Trainer 2021-2022 
 - Microsoft Certified: Azure Administrator Associate.
 - CEH V9 (Certified Ethical Hacker) from EC-Council.
 - CND V1 (Certified Network Defender) from EC-Council.

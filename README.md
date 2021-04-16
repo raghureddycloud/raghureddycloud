@@ -19,7 +19,7 @@
 
 ### ✔️ I'm currently learning
 - GitHub Actions
-- Kubernetes for Production 
+- Jenkins bootstrap with groovy init
 
 ### 📘 Book To Read
 - [The Phoenix Project](https://g.co/kgs/TRC14r)

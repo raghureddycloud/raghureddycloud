@@ -22,12 +22,15 @@
 - GitHub Actions
 - Jenkins bootstrap with groovy init
 
+
 ### 📘 Book To Read
 - [The Phoenix Project](https://g.co/kgs/TRC14r)
 - [Site Reliability Engineering](https://g.co/kgs/BrZWhj)
 
 
 ### OS Stack
+ - Linux (Redhat/CentOS/Ubuntu)
+ - Windows Servers
 
 ###  DevOps Stack
 
